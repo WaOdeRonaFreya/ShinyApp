@@ -1,0 +1,1225 @@
+Provinces_Name,Time,Literacy,Total_Population,Education_expenditure,Pulau
+Bali,2010,0.88,391,114,Bali & Nusa Tenggara
+Bali,2011,0.89,396,191,Bali & Nusa Tenggara
+Bali,2012,0.90,401,214,Bali & Nusa Tenggara
+Bali,2013,0.91,406,165,Bali & Nusa Tenggara
+Bali,2014,0.93,410,216,Bali & Nusa Tenggara
+Bali,2015,0.93,415,98,Bali & Nusa Tenggara
+Bali,2016,0.93,420,3,Bali & Nusa Tenggara
+Bali,2017,0.93,425,1837,Bali & Nusa Tenggara
+Bali,2018,0.93,429,1823,Bali & Nusa Tenggara
+Bali,2019,0.95,434,1865,Bali & Nusa Tenggara
+Bali,2020,0.96,438,1898,Bali & Nusa Tenggara
+Bali,2021,0.95,442,1862,Bali & Nusa Tenggara
+Bali,2022,0.95,447,1875,Bali & Nusa Tenggara
+Bali,2023,0.95,451,1878,Bali & Nusa Tenggara
+Bali,2024,0.95,456,1871,Bali & Nusa Tenggara
+Bali,2025,0.95,460,1875,Bali & Nusa Tenggara
+Bali,2026,0.95,464,1875,Bali & Nusa Tenggara
+Bali,2027,0.95,469,1874,Bali & Nusa Tenggara
+Bali,2028,0.95,473,1874,Bali & Nusa Tenggara
+Bali,2029,0.95,478,1874,Bali & Nusa Tenggara
+Bali,2030,0.95,482,1874,Bali & Nusa Tenggara
+Bali,2031,0.95,486,1874,Bali & Nusa Tenggara
+Bali,2032,0.95,491,1874,Bali & Nusa Tenggara
+Bali,2033,0.95,495,1874,Bali & Nusa Tenggara
+Bali,2034,0.95,500,1874,Bali & Nusa Tenggara
+Bali,2035,0.95,504,1874,Bali & Nusa Tenggara
+Bali,2036,0.95,508,1874,Bali & Nusa Tenggara
+Bali,2037,0.95,513,1874,Bali & Nusa Tenggara
+Bali,2038,0.95,517,1874,Bali & Nusa Tenggara
+Bali,2039,0.95,521,1874,Bali & Nusa Tenggara
+Bali,2040,0.95,526,1874,Bali & Nusa Tenggara
+Bali,2041,0.95,530,1874,Bali & Nusa Tenggara
+Bali,2042,0.95,535,1874,Bali & Nusa Tenggara
+Bali,2043,0.95,539,1874,Bali & Nusa Tenggara
+Bali,2044,0.95,543,1874,Bali & Nusa Tenggara
+Bali,2045,0.95,548,1874,Bali & Nusa Tenggara
+Banten,2010,0.96,1069,196,Jawa
+Banten,2011,0.96,1094,213,Jawa
+Banten,2012,0.97,1120,263,Jawa
+Banten,2013,0.97,1145,273,Jawa
+Banten,2014,0.97,1170,1146,Jawa
+Banten,2015,0.97,1196,202,Jawa
+Banten,2016,0.98,1220,408,Jawa
+Banten,2017,0.98,1245,3330,Jawa
+Banten,2018,0.98,1269,3536,Jawa
+Banten,2019,0.98,1293,3922,Jawa
+Banten,2020,0.99,1316,4298,Jawa
+Banten,2021,0.98,1339,3919,Jawa
+Banten,2022,0.99,1363,4046,Jawa
+Banten,2023,0.99,1386,4088,Jawa
+Banten,2024,0.99,1409,4018,Jawa
+Banten,2025,0.99,1433,4050,Jawa
+Banten,2026,0.99,1456,4052,Jawa
+Banten,2027,0.99,1479,4040,Jawa
+Banten,2028,0.99,1503,4047,Jawa
+Banten,2029,0.99,1526,4046,Jawa
+Banten,2030,0.99,1549,4045,Jawa
+Banten,2031,0.99,1573,4046,Jawa
+Banten,2032,0.99,1596,4046,Jawa
+Banten,2033,0.99,1619,4045,Jawa
+Banten,2034,0.99,1643,4046,Jawa
+Banten,2035,0.99,1666,4046,Jawa
+Banten,2036,0.99,1689,4046,Jawa
+Banten,2037,0.99,1712,4046,Jawa
+Banten,2038,0.99,1736,4046,Jawa
+Banten,2039,0.99,1759,4046,Jawa
+Banten,2040,0.99,1782,4046,Jawa
+Banten,2041,0.99,1806,4046,Jawa
+Banten,2042,0.99,1829,4046,Jawa
+Banten,2043,0.99,1852,4046,Jawa
+Banten,2044,0.99,1876,4046,Jawa
+Banten,2045,0.99,1899,4046,Jawa
+Bengkulu,2010,0.95,172,73,Sumatera
+Bengkulu,2011,0.95,175,78,Sumatera
+Bengkulu,2012,0.96,178,133,Sumatera
+Bengkulu,2013,0.97,181,95,Sumatera
+Bengkulu,2014,0.98,184,102,Sumatera
+Bengkulu,2015,0.98,187,95,Sumatera
+Bengkulu,2016,0.98,190,135,Sumatera
+Bengkulu,2017,0.98,193,680,Sumatera
+Bengkulu,2018,0.98,196,1034,Sumatera
+Bengkulu,2019,0.98,199,1071,Sumatera
+Bengkulu,2020,0.99,202,1153,Sumatera
+Bengkulu,2021,0.99,205,1086,Sumatera
+Bengkulu,2022,0.99,208,1103,Sumatera
+Bengkulu,2023,0.99,210,1114,Sumatera
+Bengkulu,2024,0.99,213,1101,Sumatera
+Bengkulu,2025,0.99,216,1106,Sumatera
+Bengkulu,2026,0.99,219,1107,Sumatera
+Bengkulu,2027,0.99,222,1105,Sumatera
+Bengkulu,2028,0.99,224,1106,Sumatera
+Bengkulu,2029,0.99,227,1106,Sumatera
+Bengkulu,2030,0.99,230,1105,Sumatera
+Bengkulu,2031,0.99,233,1106,Sumatera
+Bengkulu,2032,0.99,236,1106,Sumatera
+Bengkulu,2033,0.99,238,1106,Sumatera
+Bengkulu,2034,0.99,241,1106,Sumatera
+Bengkulu,2035,0.99,244,1106,Sumatera
+Bengkulu,2036,0.99,247,1106,Sumatera
+Bengkulu,2037,0.99,250,1106,Sumatera
+Bengkulu,2038,0.99,252,1106,Sumatera
+Bengkulu,2039,0.99,255,1106,Sumatera
+Bengkulu,2040,0.99,258,1106,Sumatera
+Bengkulu,2041,0.99,261,1106,Sumatera
+Bengkulu,2042,0.99,264,1106,Sumatera
+Bengkulu,2043,0.99,266,1106,Sumatera
+Bengkulu,2044,0.99,269,1106,Sumatera
+Bengkulu,2045,0.99,272,1106,Sumatera
+DI Yogyakarta,2010,0.91,347,219,Jawa
+DI Yogyakarta,2011,0.91,351,162,Jawa
+DI Yogyakarta,2012,0.92,355,244,Jawa
+DI Yogyakarta,2013,0.93,359,216,Jawa
+DI Yogyakarta,2014,0.94,364,260,Jawa
+DI Yogyakarta,2015,0.94,368,122,Jawa
+DI Yogyakarta,2016,0.95,372,356,Jawa
+DI Yogyakarta,2017,0.95,376,1461,Jawa
+DI Yogyakarta,2018,0.95,380,1270,Jawa
+DI Yogyakarta,2019,0.95,384,1287,Jawa
+DI Yogyakarta,2020,0.96,388,1749,Jawa
+DI Yogyakarta,2021,0.95,392,1435,Jawa
+DI Yogyakarta,2022,0.96,396,1490,Jawa
+DI Yogyakarta,2023,0.96,400,1558,Jawa
+DI Yogyakarta,2024,0.96,404,1495,Jawa
+DI Yogyakarta,2025,0.96,408,1514,Jawa
+DI Yogyakarta,2026,0.96,412,1522,Jawa
+DI Yogyakarta,2027,0.96,416,1511,Jawa
+DI Yogyakarta,2028,0.96,420,1516,Jawa
+DI Yogyakarta,2029,0.96,424,1516,Jawa
+DI Yogyakarta,2030,0.96,428,1514,Jawa
+DI Yogyakarta,2031,0.96,432,1515,Jawa
+DI Yogyakarta,2032,0.96,435,1515,Jawa
+DI Yogyakarta,2033,0.96,439,1515,Jawa
+DI Yogyakarta,2034,0.96,443,1515,Jawa
+DI Yogyakarta,2035,0.96,447,1515,Jawa
+DI Yogyakarta,2036,0.96,451,1515,Jawa
+DI Yogyakarta,2037,0.96,455,1515,Jawa
+DI Yogyakarta,2038,0.96,459,1515,Jawa
+DI Yogyakarta,2039,0.96,463,1515,Jawa
+DI Yogyakarta,2040,0.96,467,1515,Jawa
+DI Yogyakarta,2041,0.96,471,1515,Jawa
+DI Yogyakarta,2042,0.96,475,1515,Jawa
+DI Yogyakarta,2043,0.96,479,1515,Jawa
+DI Yogyakarta,2044,0.96,483,1515,Jawa
+DI Yogyakarta,2045,0.96,487,1515,Jawa
+DKI Jakarta,2010,0.99,964,7329,Jawa
+DKI Jakarta,2011,0.99,975,8356,Jawa
+DKI Jakarta,2012,0.99,986,10164,Jawa
+DKI Jakarta,2013,0.99,997,8616,Jawa
+DKI Jakarta,2014,0.99,1008,9045,Jawa
+DKI Jakarta,2015,0.99,1018,9275,Jawa
+DKI Jakarta,2016,0.99,1028,8979,Jawa
+DKI Jakarta,2017,0.99,1037,13263,Jawa
+DKI Jakarta,2018,0.99,1047,15792,Jawa
+DKI Jakarta,2019,0.99,1056,21779,Jawa
+DKI Jakarta,2020,0.99,1064,14610,Jawa
+DKI Jakarta,2021,0.99,1073,17393,Jawa
+DKI Jakarta,2022,0.99,1082,17927,Jawa
+DKI Jakarta,2023,0.99,1091,16643,Jawa
+DKI Jakarta,2024,0.99,1099,17321,Jawa
+DKI Jakarta,2025,0.99,1108,17297,Jawa
+DKI Jakarta,2026,0.99,1117,17087,Jawa
+DKI Jakarta,2027,0.99,1126,17235,Jawa
+DKI Jakarta,2028,0.99,1134,17207,Jawa
+DKI Jakarta,2029,0.99,1143,17177,Jawa
+DKI Jakarta,2030,0.99,1152,17206,Jawa
+DKI Jakarta,2031,0.99,1160,17196,Jawa
+DKI Jakarta,2032,0.99,1169,17193,Jawa
+DKI Jakarta,2033,0.99,1178,17199,Jawa
+DKI Jakarta,2034,0.99,1187,17196,Jawa
+DKI Jakarta,2035,0.99,1195,17196,Jawa
+DKI Jakarta,2036,0.99,1204,17197,Jawa
+DKI Jakarta,2037,0.99,1213,17196,Jawa
+DKI Jakarta,2038,0.99,1221,17196,Jawa
+DKI Jakarta,2039,0.99,1230,17196,Jawa
+DKI Jakarta,2040,0.99,1239,17196,Jawa
+DKI Jakarta,2041,0.99,1248,17196,Jawa
+DKI Jakarta,2042,0.99,1256,17196,Jawa
+DKI Jakarta,2043,0.99,1265,17196,Jawa
+DKI Jakarta,2044,0.99,1274,17196,Jawa
+DKI Jakarta,2045,0.99,1282,17196,Jawa
+Gorontalo,2010,0.96,104,48,Sulawesi
+Gorontalo,2011,0.95,106,84,Sulawesi
+Gorontalo,2012,0.95,108,55,Sulawesi
+Gorontalo,2013,0.97,110,70,Sulawesi
+Gorontalo,2014,0.98,112,84,Sulawesi
+Gorontalo,2015,0.98,113,52,Sulawesi
+Gorontalo,2016,0.98,115,117,Sulawesi
+Gorontalo,2017,0.98,117,600,Sulawesi
+Gorontalo,2018,0.99,119,602,Sulawesi
+Gorontalo,2019,0.99,120,644,Sulawesi
+Gorontalo,2020,0.99,122,694,Sulawesi
+Gorontalo,2021,0.99,124,646,Sulawesi
+Gorontalo,2022,0.99,125,661,Sulawesi
+Gorontalo,2023,0.99,127,667,Sulawesi
+Gorontalo,2024,0.99,129,658,Sulawesi
+Gorontalo,2025,0.99,130,662,Sulawesi
+Gorontalo,2026,0.99,132,663,Sulawesi
+Gorontalo,2027,0.99,134,661,Sulawesi
+Gorontalo,2028,0.99,136,662,Sulawesi
+Gorontalo,2029,0.99,137,662,Sulawesi
+Gorontalo,2030,0.99,139,662,Sulawesi
+Gorontalo,2031,0.99,141,662,Sulawesi
+Gorontalo,2032,0.99,142,662,Sulawesi
+Gorontalo,2033,0.99,144,662,Sulawesi
+Gorontalo,2034,0.99,146,662,Sulawesi
+Gorontalo,2035,0.99,147,662,Sulawesi
+Gorontalo,2036,0.99,149,662,Sulawesi
+Gorontalo,2037,0.99,151,662,Sulawesi
+Gorontalo,2038,0.99,152,662,Sulawesi
+Gorontalo,2039,0.99,154,662,Sulawesi
+Gorontalo,2040,0.99,156,662,Sulawesi
+Gorontalo,2041,0.99,158,662,Sulawesi
+Gorontalo,2042,0.99,159,662,Sulawesi
+Gorontalo,2043,0.99,161,662,Sulawesi
+Gorontalo,2044,0.99,163,662,Sulawesi
+Gorontalo,2045,0.99,164,662,Sulawesi
+Jambi,2010,0.96,311,179,Sumatera
+Jambi,2011,0.96,317,173,Sumatera
+Jambi,2012,0.96,323,241,Sumatera
+Jambi,2013,0.97,329,198,Sumatera
+Jambi,2014,0.98,334,2656,Sumatera
+Jambi,2015,0.98,340,166,Sumatera
+Jambi,2016,0.98,346,211,Sumatera
+Jambi,2017,0.98,352,1385,Sumatera
+Jambi,2018,0.98,357,1508,Sumatera
+Jambi,2019,0.98,362,1654,Sumatera
+Jambi,2020,0.99,368,1682,Sumatera
+Jambi,2021,0.99,373,1615,Sumatera
+Jambi,2022,0.99,378,1650,Sumatera
+Jambi,2023,0.99,384,1649,Sumatera
+Jambi,2024,0.99,389,1638,Sumatera
+Jambi,2025,0.99,394,1646,Sumatera
+Jambi,2026,0.99,400,1644,Sumatera
+Jambi,2027,0.99,405,1642,Sumatera
+Jambi,2028,0.99,410,1644,Sumatera
+Jambi,2029,0.99,416,1644,Sumatera
+Jambi,2030,0.99,421,1643,Sumatera
+Jambi,2031,0.99,426,1644,Sumatera
+Jambi,2032,0.99,432,1643,Sumatera
+Jambi,2033,0.99,437,1643,Sumatera
+Jambi,2034,0.99,442,1644,Sumatera
+Jambi,2035,0.99,448,1643,Sumatera
+Jambi,2036,0.99,453,1643,Sumatera
+Jambi,2037,0.99,458,1644,Sumatera
+Jambi,2038,0.99,464,1643,Sumatera
+Jambi,2039,0.99,469,1643,Sumatera
+Jambi,2040,0.99,474,1644,Sumatera
+Jambi,2041,0.99,480,1643,Sumatera
+Jambi,2042,0.99,485,1643,Sumatera
+Jambi,2043,0.99,490,1643,Sumatera
+Jambi,2044,0.99,496,1643,Sumatera
+Jambi,2045,0.99,501,1643,Sumatera
+Jawa Barat,2010,0.96,4323,665,Jawa
+Jawa Barat,2011,0.96,4394,726,Jawa
+Jawa Barat,2012,0.96,4464,788,Jawa
+Jawa Barat,2013,0.97,4534,757,Jawa
+Jawa Barat,2014,0.98,4603,772,Jawa
+Jawa Barat,2015,0.98,4671,192,Jawa
+Jawa Barat,2016,0.98,4738,482,Jawa
+Jawa Barat,2017,0.98,4804,7979,Jawa
+Jawa Barat,2018,0.98,4868,13255,Jawa
+Jawa Barat,2019,0.99,4932,13968,Jawa
+Jawa Barat,2020,0.99,4994,15193,Jawa
+Jawa Barat,2021,0.99,5056,14139,Jawa
+Jawa Barat,2022,0.99,5117,14433,Jawa
+Jawa Barat,2023,0.99,5179,14588,Jawa
+Jawa Barat,2024,0.99,5241,14387,Jawa
+Jawa Barat,2025,0.99,5303,14469,Jawa
+Jawa Barat,2026,0.99,5365,14482,Jawa
+Jawa Barat,2027,0.99,5427,14446,Jawa
+Jawa Barat,2028,0.99,5489,14466,Jawa
+Jawa Barat,2029,0.99,5551,14464,Jawa
+Jawa Barat,2030,0.99,5613,14459,Jawa
+Jawa Barat,2031,0.99,5675,14463,Jawa
+Jawa Barat,2032,0.99,5737,14462,Jawa
+Jawa Barat,2033,0.99,5798,14461,Jawa
+Jawa Barat,2034,0.99,5860,14462,Jawa
+Jawa Barat,2035,0.99,5922,14462,Jawa
+Jawa Barat,2036,0.99,5984,14462,Jawa
+Jawa Barat,2037,0.99,6046,14462,Jawa
+Jawa Barat,2038,0.99,6108,14462,Jawa
+Jawa Barat,2039,0.99,6170,14462,Jawa
+Jawa Barat,2040,0.99,6232,14462,Jawa
+Jawa Barat,2041,0.99,6294,14462,Jawa
+Jawa Barat,2042,0.99,6356,14462,Jawa
+Jawa Barat,2043,0.99,6418,14462,Jawa
+Jawa Barat,2044,0.99,6480,14462,Jawa
+Jawa Barat,2045,0.99,6541,14462,Jawa
+Jawa Tengah,2010,0.90,3244,292,Jawa
+Jawa Tengah,2011,0.90,3273,301,Jawa
+Jawa Tengah,2012,0.90,3300,363,Jawa
+Jawa Tengah,2013,0.92,3326,308,Jawa
+Jawa Tengah,2014,0.93,3352,324,Jawa
+Jawa Tengah,2015,0.93,3377,184,Jawa
+Jawa Tengah,2016,0.93,3402,64,Jawa
+Jawa Tengah,2017,0.93,3426,5204,Jawa
+Jawa Tengah,2018,0.93,3449,6402,Jawa
+Jawa Tengah,2019,0.94,3472,7116,Jawa
+Jawa Tengah,2020,0.94,3494,7390,Jawa
+Jawa Tengah,2021,0.94,3516,6969,Jawa
+Jawa Tengah,2022,0.94,3538,7158,Jawa
+Jawa Tengah,2023,0.94,3561,7172,Jawa
+Jawa Tengah,2024,0.94,3583,7100,Jawa
+Jawa Tengah,2025,0.94,3605,7144,Jawa
+Jawa Tengah,2026,0.94,3627,7139,Jawa
+Jawa Tengah,2027,0.94,3649,7127,Jawa
+Jawa Tengah,2028,0.94,3672,7137,Jawa
+Jawa Tengah,2029,0.94,3694,7134,Jawa
+Jawa Tengah,2030,0.94,3716,7133,Jawa
+Jawa Tengah,2031,0.94,3738,7135,Jawa
+Jawa Tengah,2032,0.94,3760,7134,Jawa
+Jawa Tengah,2033,0.94,3782,7134,Jawa
+Jawa Tengah,2034,0.94,3805,7134,Jawa
+Jawa Tengah,2035,0.94,3827,7134,Jawa
+Jawa Tengah,2036,0.94,3849,7134,Jawa
+Jawa Tengah,2037,0.94,3871,7134,Jawa
+Jawa Tengah,2038,0.94,3893,7134,Jawa
+Jawa Tengah,2039,0.94,3916,7134,Jawa
+Jawa Tengah,2040,0.94,3938,7134,Jawa
+Jawa Tengah,2041,0.94,3960,7134,Jawa
+Jawa Tengah,2042,0.94,3982,7134,Jawa
+Jawa Tengah,2043,0.94,4004,7134,Jawa
+Jawa Tengah,2044,0.94,4027,7134,Jawa
+Jawa Tengah,2045,0.94,4049,7134,Jawa
+Jawa Timur,2010,0.88,3757,321,Jawa
+Jawa Timur,2011,0.89,3784,386,Jawa
+Jawa Timur,2012,0.89,3811,412,Jawa
+Jawa Timur,2013,0.90,3836,373,Jawa
+Jawa Timur,2014,0.91,3861,513,Jawa
+Jawa Timur,2015,0.91,3885,282,Jawa
+Jawa Timur,2016,0.92,3908,251,Jawa
+Jawa Timur,2017,0.92,3929,9894,Jawa
+Jawa Timur,2018,0.92,3950,9549,Jawa
+Jawa Timur,2019,0.92,3970,10668,Jawa
+Jawa Timur,2020,0.93,3989,11014,Jawa
+Jawa Timur,2021,0.92,4007,10410,Jawa
+Jawa Timur,2022,0.93,4026,10698,Jawa
+Jawa Timur,2023,0.93,4045,10707,Jawa
+Jawa Timur,2024,0.93,4064,10605,Jawa
+Jawa Timur,2025,0.93,4082,10670,Jawa
+Jawa Timur,2026,0.93,4101,10661,Jawa
+Jawa Timur,2027,0.93,4120,10645,Jawa
+Jawa Timur,2028,0.93,4139,10659,Jawa
+Jawa Timur,2029,0.93,4158,10655,Jawa
+Jawa Timur,2030,0.93,4176,10653,Jawa
+Jawa Timur,2031,0.93,4195,10655,Jawa
+Jawa Timur,2032,0.93,4214,10654,Jawa
+Jawa Timur,2033,0.93,4233,10654,Jawa
+Jawa Timur,2034,0.93,4251,10655,Jawa
+Jawa Timur,2035,0.93,4270,10654,Jawa
+Jawa Timur,2036,0.93,4289,10655,Jawa
+Jawa Timur,2037,0.93,4308,10655,Jawa
+Jawa Timur,2038,0.93,4326,10655,Jawa
+Jawa Timur,2039,0.93,4345,10655,Jawa
+Jawa Timur,2040,0.93,4364,10655,Jawa
+Jawa Timur,2041,0.93,4383,10655,Jawa
+Jawa Timur,2042,0.93,4401,10655,Jawa
+Jawa Timur,2043,0.93,4420,10655,Jawa
+Jawa Timur,2044,0.93,4439,10655,Jawa
+Jawa Timur,2045,0.93,4458,10655,Jawa
+Kalimantan Barat,2010,0.90,441,86,Kalimantan
+Kalimantan Barat,2011,0.90,449,105,Kalimantan
+Kalimantan Barat,2012,0.91,457,123,Kalimantan
+Kalimantan Barat,2013,0.92,464,11,Kalimantan
+Kalimantan Barat,2014,0.92,472,80,Kalimantan
+Kalimantan Barat,2015,0.92,479,175,Kalimantan
+Kalimantan Barat,2016,0.92,486,171,Kalimantan
+Kalimantan Barat,2017,0.92,493,1760,Kalimantan
+Kalimantan Barat,2018,0.93,500,1765,Kalimantan
+Kalimantan Barat,2019,0.93,507,2095,Kalimantan
+Kalimantan Barat,2020,0.95,513,2349,Kalimantan
+Kalimantan Barat,2021,0.94,520,2069,Kalimantan
+Kalimantan Barat,2022,0.94,527,2171,Kalimantan
+Kalimantan Barat,2023,0.94,533,2197,Kalimantan
+Kalimantan Barat,2024,0.94,540,2146,Kalimantan
+Kalimantan Barat,2025,0.94,546,2171,Kalimantan
+Kalimantan Barat,2026,0.94,553,2171,Kalimantan
+Kalimantan Barat,2027,0.94,559,2163,Kalimantan
+Kalimantan Barat,2028,0.94,566,2168,Kalimantan
+Kalimantan Barat,2029,0.94,573,2167,Kalimantan
+Kalimantan Barat,2030,0.94,579,2166,Kalimantan
+Kalimantan Barat,2031,0.94,586,2167,Kalimantan
+Kalimantan Barat,2032,0.94,592,2167,Kalimantan
+Kalimantan Barat,2033,0.94,599,2167,Kalimantan
+Kalimantan Barat,2034,0.94,605,2167,Kalimantan
+Kalimantan Barat,2035,0.94,612,2167,Kalimantan
+Kalimantan Barat,2036,0.94,618,2167,Kalimantan
+Kalimantan Barat,2037,0.94,625,2167,Kalimantan
+Kalimantan Barat,2038,0.94,632,2167,Kalimantan
+Kalimantan Barat,2039,0.94,638,2167,Kalimantan
+Kalimantan Barat,2040,0.94,645,2167,Kalimantan
+Kalimantan Barat,2041,0.94,651,2167,Kalimantan
+Kalimantan Barat,2042,0.94,658,2167,Kalimantan
+Kalimantan Barat,2043,0.94,664,2167,Kalimantan
+Kalimantan Barat,2044,0.94,671,2167,Kalimantan
+Kalimantan Barat,2045,0.94,678,2167,Kalimantan
+Kalimantan Selatan,2010,0.96,364,440,Kalimantan
+Kalimantan Selatan,2011,0.96,371,370,Kalimantan
+Kalimantan Selatan,2012,0.96,378,378,Kalimantan
+Kalimantan Selatan,2013,0.97,385,573,Kalimantan
+Kalimantan Selatan,2014,0.98,392,466,Kalimantan
+Kalimantan Selatan,2015,0.98,399,174,Kalimantan
+Kalimantan Selatan,2016,0.98,406,477,Kalimantan
+Kalimantan Selatan,2017,0.98,412,2067,Kalimantan
+Kalimantan Selatan,2018,0.98,418,1269,Kalimantan
+Kalimantan Selatan,2019,0.98,424,1459,Kalimantan
+Kalimantan Selatan,2020,0.99,430,1440,Kalimantan
+Kalimantan Selatan,2021,0.99,436,1389,Kalimantan
+Kalimantan Selatan,2022,0.99,442,1430,Kalimantan
+Kalimantan Selatan,2023,0.99,448,1420,Kalimantan
+Kalimantan Selatan,2024,0.99,454,1413,Kalimantan
+Kalimantan Selatan,2025,0.99,460,1421,Kalimantan
+Kalimantan Selatan,2026,0.99,466,1418,Kalimantan
+Kalimantan Selatan,2027,0.99,472,1417,Kalimantan
+Kalimantan Selatan,2028,0.99,478,1418,Kalimantan
+Kalimantan Selatan,2029,0.99,484,1418,Kalimantan
+Kalimantan Selatan,2030,0.99,490,1418,Kalimantan
+Kalimantan Selatan,2031,0.99,496,1418,Kalimantan
+Kalimantan Selatan,2032,0.99,502,1418,Kalimantan
+Kalimantan Selatan,2033,0.99,508,1418,Kalimantan
+Kalimantan Selatan,2034,0.99,514,1418,Kalimantan
+Kalimantan Selatan,2035,0.99,520,1418,Kalimantan
+Kalimantan Selatan,2036,0.99,526,1418,Kalimantan
+Kalimantan Selatan,2037,0.99,532,1418,Kalimantan
+Kalimantan Selatan,2038,0.99,538,1418,Kalimantan
+Kalimantan Selatan,2039,0.99,544,1418,Kalimantan
+Kalimantan Selatan,2040,0.99,550,1418,Kalimantan
+Kalimantan Selatan,2041,0.99,556,1418,Kalimantan
+Kalimantan Selatan,2042,0.99,562,1418,Kalimantan
+Kalimantan Selatan,2043,0.99,568,1418,Kalimantan
+Kalimantan Selatan,2044,0.99,574,1418,Kalimantan
+Kalimantan Selatan,2045,0.99,580,1418,Kalimantan
+Kalimantan Tengah,2010,0.97,222,223,Kalimantan
+Kalimantan Tengah,2011,0.97,228,218,Kalimantan
+Kalimantan Tengah,2012,0.97,233,212,Kalimantan
+Kalimantan Tengah,2013,0.98,238,228,Kalimantan
+Kalimantan Tengah,2014,0.99,244,312,Kalimantan
+Kalimantan Tengah,2015,0.99,250,188,Kalimantan
+Kalimantan Tengah,2016,0.99,255,18,Kalimantan
+Kalimantan Tengah,2017,0.99,261,1172,Kalimantan
+Kalimantan Tengah,2018,0.99,266,1238,Kalimantan
+Kalimantan Tengah,2019,0.99,271,1468,Kalimantan
+Kalimantan Tengah,2020,0.99,277,1604,Kalimantan
+Kalimantan Tengah,2021,0.99,282,1437,Kalimantan
+Kalimantan Tengah,2022,0.99,288,1503,Kalimantan
+Kalimantan Tengah,2023,0.99,293,1515,Kalimantan
+Kalimantan Tengah,2024,0.99,299,1485,Kalimantan
+Kalimantan Tengah,2025,0.99,304,1501,Kalimantan
+Kalimantan Tengah,2026,0.99,309,1500,Kalimantan
+Kalimantan Tengah,2027,0.99,315,1495,Kalimantan
+Kalimantan Tengah,2028,0.99,320,1499,Kalimantan
+Kalimantan Tengah,2029,0.99,326,1498,Kalimantan
+Kalimantan Tengah,2030,0.99,331,1497,Kalimantan
+Kalimantan Tengah,2031,0.99,337,1498,Kalimantan
+Kalimantan Tengah,2032,0.99,342,1498,Kalimantan
+Kalimantan Tengah,2033,0.99,348,1498,Kalimantan
+Kalimantan Tengah,2034,0.99,353,1498,Kalimantan
+Kalimantan Tengah,2035,0.99,358,1498,Kalimantan
+Kalimantan Tengah,2036,0.99,364,1498,Kalimantan
+Kalimantan Tengah,2037,0.99,369,1498,Kalimantan
+Kalimantan Tengah,2038,0.99,375,1498,Kalimantan
+Kalimantan Tengah,2039,0.99,380,1498,Kalimantan
+Kalimantan Tengah,2040,0.99,386,1498,Kalimantan
+Kalimantan Tengah,2041,0.99,391,1498,Kalimantan
+Kalimantan Tengah,2042,0.99,396,1498,Kalimantan
+Kalimantan Tengah,2043,0.99,402,1498,Kalimantan
+Kalimantan Tengah,2044,0.99,407,1498,Kalimantan
+Kalimantan Tengah,2045,0.99,413,1498,Kalimantan
+Kalimantan Timur,2010,0.97,305,309,Kalimantan
+Kalimantan Timur,2011,0.97,312,328,Kalimantan
+Kalimantan Timur,2012,0.98,320,583,Kalimantan
+Kalimantan Timur,2013,0.98,328,673,Kalimantan
+Kalimantan Timur,2014,0.99,335,586,Kalimantan
+Kalimantan Timur,2015,0.99,343,144,Kalimantan
+Kalimantan Timur,2016,0.99,350,468,Kalimantan
+Kalimantan Timur,2017,0.99,358,1671,Kalimantan
+Kalimantan Timur,2018,0.99,365,1685,Kalimantan
+Kalimantan Timur,2019,0.99,372,2351,Kalimantan
+Kalimantan Timur,2020,0.99,379,1855,Kalimantan
+Kalimantan Timur,2021,0.99,386,1964,Kalimantan
+Kalimantan Timur,2022,0.99,394,2057,Kalimantan
+Kalimantan Timur,2023,0.99,401,1959,Kalimantan
+Kalimantan Timur,2024,0.99,408,1993,Kalimantan
+Kalimantan Timur,2025,0.99,415,2003,Kalimantan
+Kalimantan Timur,2026,0.99,422,1985,Kalimantan
+Kalimantan Timur,2027,0.99,430,1993,Kalimantan
+Kalimantan Timur,2028,0.99,437,1994,Kalimantan
+Kalimantan Timur,2029,0.99,444,1991,Kalimantan
+Kalimantan Timur,2030,0.99,451,1993,Kalimantan
+Kalimantan Timur,2031,0.99,458,1992,Kalimantan
+Kalimantan Timur,2032,0.99,465,1992,Kalimantan
+Kalimantan Timur,2033,0.99,473,1992,Kalimantan
+Kalimantan Timur,2034,0.99,480,1992,Kalimantan
+Kalimantan Timur,2035,0.99,487,1992,Kalimantan
+Kalimantan Timur,2036,0.99,494,1992,Kalimantan
+Kalimantan Timur,2037,0.99,501,1992,Kalimantan
+Kalimantan Timur,2038,0.99,508,1992,Kalimantan
+Kalimantan Timur,2039,0.99,516,1992,Kalimantan
+Kalimantan Timur,2040,0.99,523,1992,Kalimantan
+Kalimantan Timur,2041,0.99,530,1992,Kalimantan
+Kalimantan Timur,2042,0.99,537,1992,Kalimantan
+Kalimantan Timur,2043,0.99,544,1992,Kalimantan
+Kalimantan Timur,2044,0.99,552,1992,Kalimantan
+Kalimantan Timur,2045,0.99,559,1992,Kalimantan
+Kalimantan Utara,2010,0.00,53,0,Kalimantan
+Kalimantan Utara,2011,0.00,55,0,Kalimantan
+Kalimantan Utara,2012,0.00,57,0,Kalimantan
+Kalimantan Utara,2013,0.00,59,0,Kalimantan
+Kalimantan Utara,2014,0.00,62,0,Kalimantan
+Kalimantan Utara,2015,0.95,64,72,Kalimantan
+Kalimantan Utara,2016,0.95,67,44,Kalimantan
+Kalimantan Utara,2017,0.95,69,435,Kalimantan
+Kalimantan Utara,2018,0.95,72,477,Kalimantan
+Kalimantan Utara,2019,0.96,74,429,Kalimantan
+Kalimantan Utara,2020,0.99,77,511,Kalimantan
+Kalimantan Utara,2021,0.97,79,472,Kalimantan
+Kalimantan Utara,2022,0.98,82,471,Kalimantan
+Kalimantan Utara,2023,0.98,85,485,Kalimantan
+Kalimantan Utara,2024,0.97,87,476,Kalimantan
+Kalimantan Utara,2025,0.98,90,477,Kalimantan
+Kalimantan Utara,2026,0.98,93,479,Kalimantan
+Kalimantan Utara,2027,0.98,95,478,Kalimantan
+Kalimantan Utara,2028,0.98,98,478,Kalimantan
+Kalimantan Utara,2029,0.98,100,478,Kalimantan
+Kalimantan Utara,2030,0.98,103,478,Kalimantan
+Kalimantan Utara,2031,0.98,106,478,Kalimantan
+Kalimantan Utara,2032,0.98,108,478,Kalimantan
+Kalimantan Utara,2033,0.98,111,478,Kalimantan
+Kalimantan Utara,2034,0.98,114,478,Kalimantan
+Kalimantan Utara,2035,0.98,116,478,Kalimantan
+Kalimantan Utara,2036,0.98,119,478,Kalimantan
+Kalimantan Utara,2037,0.98,121,478,Kalimantan
+Kalimantan Utara,2038,0.98,124,478,Kalimantan
+Kalimantan Utara,2039,0.98,127,478,Kalimantan
+Kalimantan Utara,2040,0.98,129,478,Kalimantan
+Kalimantan Utara,2041,0.98,132,478,Kalimantan
+Kalimantan Utara,2042,0.98,135,478,Kalimantan
+Kalimantan Utara,2043,0.98,137,478,Kalimantan
+Kalimantan Utara,2044,0.98,140,478,Kalimantan
+Kalimantan Utara,2045,0.98,143,478,Kalimantan
+Kepulauan Bangka-Belitung,2010,0.95,123,78,Sumatera
+Kepulauan Bangka-Belitung,2011,0.96,126,57,Sumatera
+Kepulauan Bangka-Belitung,2012,0.96,129,37,Sumatera
+Kepulauan Bangka-Belitung,2013,0.96,132,47,Sumatera
+Kepulauan Bangka-Belitung,2014,0.98,134,40,Sumatera
+Kepulauan Bangka-Belitung,2015,0.98,137,70,Sumatera
+Kepulauan Bangka-Belitung,2016,0.98,140,76,Sumatera
+Kepulauan Bangka-Belitung,2017,0.98,143,671,Sumatera
+Kepulauan Bangka-Belitung,2018,0.98,146,693,Sumatera
+Kepulauan Bangka-Belitung,2019,0.98,149,832,Sumatera
+Kepulauan Bangka-Belitung,2020,0.99,152,994,Sumatera
+Kepulauan Bangka-Belitung,2021,0.99,155,840,Sumatera
+Kepulauan Bangka-Belitung,2022,0.99,158,889,Sumatera
+Kepulauan Bangka-Belitung,2023,0.99,160,907,Sumatera
+Kepulauan Bangka-Belitung,2024,0.99,163,879,Sumatera
+Kepulauan Bangka-Belitung,2025,0.99,166,892,Sumatera
+Kepulauan Bangka-Belitung,2026,0.99,169,892,Sumatera
+Kepulauan Bangka-Belitung,2027,0.99,172,888,Sumatera
+Kepulauan Bangka-Belitung,2028,0.99,175,891,Sumatera
+Kepulauan Bangka-Belitung,2029,0.99,178,890,Sumatera
+Kepulauan Bangka-Belitung,2030,0.99,181,889,Sumatera
+Kepulauan Bangka-Belitung,2031,0.99,183,890,Sumatera
+Kepulauan Bangka-Belitung,2032,0.99,186,890,Sumatera
+Kepulauan Bangka-Belitung,2033,0.99,189,890,Sumatera
+Kepulauan Bangka-Belitung,2034,0.99,192,890,Sumatera
+Kepulauan Bangka-Belitung,2035,0.99,195,890,Sumatera
+Kepulauan Bangka-Belitung,2036,0.99,198,890,Sumatera
+Kepulauan Bangka-Belitung,2037,0.99,201,890,Sumatera
+Kepulauan Bangka-Belitung,2038,0.99,204,890,Sumatera
+Kepulauan Bangka-Belitung,2039,0.99,206,890,Sumatera
+Kepulauan Bangka-Belitung,2040,0.99,209,890,Sumatera
+Kepulauan Bangka-Belitung,2041,0.99,212,890,Sumatera
+Kepulauan Bangka-Belitung,2042,0.99,215,890,Sumatera
+Kepulauan Bangka-Belitung,2043,0.99,218,890,Sumatera
+Kepulauan Bangka-Belitung,2044,0.99,221,890,Sumatera
+Kepulauan Bangka-Belitung,2045,0.99,224,890,Sumatera
+Kepulauan Riau,2010,0.97,169,194,Sumatera
+Kepulauan Riau,2011,0.98,175,213,Sumatera
+Kepulauan Riau,2012,0.98,181,233,Sumatera
+Kepulauan Riau,2013,0.98,186,223,Sumatera
+Kepulauan Riau,2014,0.99,192,223,Sumatera
+Kepulauan Riau,2015,0.99,197,255,Sumatera
+Kepulauan Riau,2016,0.99,203,583,Sumatera
+Kepulauan Riau,2017,0.99,208,960,Sumatera
+Kepulauan Riau,2018,0.99,214,984,Sumatera
+Kepulauan Riau,2019,0.99,219,1044,Sumatera
+Kepulauan Riau,2020,0.99,224,1031,Sumatera
+Kepulauan Riau,2021,0.99,229,1020,Sumatera
+Kepulauan Riau,2022,0.99,235,1032,Sumatera
+Kepulauan Riau,2023,0.99,240,1027,Sumatera
+Kepulauan Riau,2024,0.99,245,1026,Sumatera
+Kepulauan Riau,2025,0.99,250,1028,Sumatera
+Kepulauan Riau,2026,0.99,256,1027,Sumatera
+Kepulauan Riau,2027,0.99,261,1027,Sumatera
+Kepulauan Riau,2028,0.99,266,1028,Sumatera
+Kepulauan Riau,2029,0.99,272,1028,Sumatera
+Kepulauan Riau,2030,0.99,277,1028,Sumatera
+Kepulauan Riau,2031,0.99,282,1028,Sumatera
+Kepulauan Riau,2032,0.99,287,1028,Sumatera
+Kepulauan Riau,2033,0.99,293,1028,Sumatera
+Kepulauan Riau,2034,0.99,298,1028,Sumatera
+Kepulauan Riau,2035,0.99,303,1028,Sumatera
+Kepulauan Riau,2036,0.99,308,1028,Sumatera
+Kepulauan Riau,2037,0.99,314,1028,Sumatera
+Kepulauan Riau,2038,0.99,319,1028,Sumatera
+Kepulauan Riau,2039,0.99,324,1028,Sumatera
+Kepulauan Riau,2040,0.99,329,1028,Sumatera
+Kepulauan Riau,2041,0.99,335,1028,Sumatera
+Kepulauan Riau,2042,0.99,340,1028,Sumatera
+Kepulauan Riau,2043,0.99,345,1028,Sumatera
+Kepulauan Riau,2044,0.99,350,1028,Sumatera
+Kepulauan Riau,2045,0.99,356,1028,Sumatera
+Lampung,2010,0.95,763,254,Sumatera
+Lampung,2011,0.95,774,329,Sumatera
+Lampung,2012,0.95,784,404,Sumatera
+Lampung,2013,0.96,793,329,Sumatera
+Lampung,2014,0.97,803,354,Sumatera
+Lampung,2015,0.97,812,90,Sumatera
+Lampung,2016,0.97,821,195,Sumatera
+Lampung,2017,0.97,829,2531,Sumatera
+Lampung,2018,0.97,837,2693,Sumatera
+Lampung,2019,0.97,845,2757,Sumatera
+Lampung,2020,0.98,852,3003,Sumatera
+Lampung,2021,0.97,859,2818,Sumatera
+Lampung,2022,0.98,867,2859,Sumatera
+Lampung,2023,0.98,874,2894,Sumatera
+Lampung,2024,0.98,882,2857,Sumatera
+Lampung,2025,0.98,889,2870,Sumatera
+Lampung,2026,0.98,896,2873,Sumatera
+Lampung,2027,0.98,904,2867,Sumatera
+Lampung,2028,0.98,911,2870,Sumatera
+Lampung,2029,0.98,918,2870,Sumatera
+Lampung,2030,0.98,926,2869,Sumatera
+Lampung,2031,0.98,933,2870,Sumatera
+Lampung,2032,0.98,940,2870,Sumatera
+Lampung,2033,0.98,948,2869,Sumatera
+Lampung,2034,0.98,955,2870,Sumatera
+Lampung,2035,0.98,962,2870,Sumatera
+Lampung,2036,0.98,970,2870,Sumatera
+Lampung,2037,0.98,977,2870,Sumatera
+Lampung,2038,0.98,984,2870,Sumatera
+Lampung,2039,0.98,992,2870,Sumatera
+Lampung,2040,0.98,999,2870,Sumatera
+Lampung,2041,0.98,1006,2870,Sumatera
+Lampung,2042,0.98,1014,2870,Sumatera
+Lampung,2043,0.98,1021,2870,Sumatera
+Lampung,2044,0.98,1028,2870,Sumatera
+Lampung,2045,0.98,1036,2870,Sumatera
+Maluku,2010,0.97,154,147,Maluku
+Maluku,2011,0.97,157,142,Maluku
+Maluku,2012,0.97,160,99,Maluku
+Maluku,2013,0.98,163,92,Maluku
+Maluku,2014,0.99,166,43,Maluku
+Maluku,2015,0.99,169,73,Maluku
+Maluku,2016,0.99,172,180,Maluku
+Maluku,2017,0.99,174,1229,Maluku
+Maluku,2018,0.99,177,1399,Maluku
+Maluku,2019,0.99,180,839,Maluku
+Maluku,2020,0.99,183,1302,Maluku
+Maluku,2021,0.99,186,1180,Maluku
+Maluku,2022,0.99,189,1107,Maluku
+Maluku,2023,0.99,192,1196,Maluku
+Maluku,2024,0.99,195,1161,Maluku
+Maluku,2025,0.99,198,1155,Maluku
+Maluku,2026,0.99,201,1171,Maluku
+Maluku,2027,0.99,203,1162,Maluku
+Maluku,2028,0.99,206,1163,Maluku
+Maluku,2029,0.99,209,1165,Maluku
+Maluku,2030,0.99,212,1163,Maluku
+Maluku,2031,0.99,215,1164,Maluku
+Maluku,2032,0.99,218,1164,Maluku
+Maluku,2033,0.99,221,1164,Maluku
+Maluku,2034,0.99,224,1164,Maluku
+Maluku,2035,0.99,227,1164,Maluku
+Maluku,2036,0.99,230,1164,Maluku
+Maluku,2037,0.99,233,1164,Maluku
+Maluku,2038,0.99,235,1164,Maluku
+Maluku,2039,0.99,238,1164,Maluku
+Maluku,2040,0.99,241,1164,Maluku
+Maluku,2041,0.99,244,1164,Maluku
+Maluku,2042,0.99,247,1164,Maluku
+Maluku,2043,0.99,250,1164,Maluku
+Maluku,2044,0.99,253,1164,Maluku
+Maluku,2045,0.99,256,1164,Maluku
+Maluku Utara,2010,0.96,104,27,Maluku
+Maluku Utara,2011,0.96,107,21,Maluku
+Maluku Utara,2012,0.96,109,34,Maluku
+Maluku Utara,2013,0.97,111,27,Maluku
+Maluku Utara,2014,0.98,114,30,Maluku
+Maluku Utara,2015,0.98,116,51,Maluku
+Maluku Utara,2016,0.99,119,36,Maluku
+Maluku Utara,2017,0.99,121,707,Maluku
+Maluku Utara,2018,0.99,123,761,Maluku
+Maluku Utara,2019,0.99,126,888,Maluku
+Maluku Utara,2020,0.99,128,904,Maluku
+Maluku Utara,2021,0.99,130,851,Maluku
+Maluku Utara,2022,0.99,132,881,Maluku
+Maluku Utara,2023,0.99,135,879,Maluku
+Maluku Utara,2024,0.99,137,871,Maluku
+Maluku Utara,2025,0.99,139,877,Maluku
+Maluku Utara,2026,0.99,142,875,Maluku
+Maluku Utara,2027,0.99,144,874,Maluku
+Maluku Utara,2028,0.99,146,876,Maluku
+Maluku Utara,2029,0.99,149,875,Maluku
+Maluku Utara,2030,0.99,151,875,Maluku
+Maluku Utara,2031,0.99,153,875,Maluku
+Maluku Utara,2032,0.99,155,875,Maluku
+Maluku Utara,2033,0.99,158,875,Maluku
+Maluku Utara,2034,0.99,160,875,Maluku
+Maluku Utara,2035,0.99,162,875,Maluku
+Maluku Utara,2036,0.99,165,875,Maluku
+Maluku Utara,2037,0.99,167,875,Maluku
+Maluku Utara,2038,0.99,169,875,Maluku
+Maluku Utara,2039,0.99,172,875,Maluku
+Maluku Utara,2040,0.99,174,875,Maluku
+Maluku Utara,2041,0.99,176,875,Maluku
+Maluku Utara,2042,0.99,178,875,Maluku
+Maluku Utara,2043,0.99,181,875,Maluku
+Maluku Utara,2044,0.99,183,875,Maluku
+Maluku Utara,2045,0.99,185,875,Maluku
+Nanggroe Aceh Darussalam,2010,0.97,452,923,Sumatera
+Nanggroe Aceh Darussalam,2011,0.96,462,962,Sumatera
+Nanggroe Aceh Darussalam,2012,0.96,472,946,Sumatera
+Nanggroe Aceh Darussalam,2013,0.97,481,809,Sumatera
+Nanggroe Aceh Darussalam,2014,0.97,491,1169,Sumatera
+Nanggroe Aceh Darussalam,2015,0.98,500,389,Sumatera
+Nanggroe Aceh Darussalam,2016,0.98,510,957,Sumatera
+Nanggroe Aceh Darussalam,2017,0.98,519,3559,Sumatera
+Nanggroe Aceh Darussalam,2018,0.98,528,3736,Sumatera
+Nanggroe Aceh Darussalam,2019,0.98,537,4387,Sumatera
+Nanggroe Aceh Darussalam,2020,0.99,546,3910,Sumatera
+Nanggroe Aceh Darussalam,2021,0.99,555,4011,Sumatera
+Nanggroe Aceh Darussalam,2022,0.99,564,4103,Sumatera
+Nanggroe Aceh Darussalam,2023,0.99,572,4008,Sumatera
+Nanggroe Aceh Darussalam,2024,0.99,581,4041,Sumatera
+Nanggroe Aceh Darussalam,2025,0.99,590,4050,Sumatera
+Nanggroe Aceh Darussalam,2026,0.99,599,4033,Sumatera
+Nanggroe Aceh Darussalam,2027,0.99,608,4041,Sumatera
+Nanggroe Aceh Darussalam,2028,0.99,617,4042,Sumatera
+Nanggroe Aceh Darussalam,2029,0.99,626,4039,Sumatera
+Nanggroe Aceh Darussalam,2030,0.99,634,4041,Sumatera
+Nanggroe Aceh Darussalam,2031,0.99,643,4040,Sumatera
+Nanggroe Aceh Darussalam,2032,0.99,652,4040,Sumatera
+Nanggroe Aceh Darussalam,2033,0.99,661,4040,Sumatera
+Nanggroe Aceh Darussalam,2034,0.99,670,4040,Sumatera
+Nanggroe Aceh Darussalam,2035,0.99,679,4040,Sumatera
+Nanggroe Aceh Darussalam,2036,0.99,687,4040,Sumatera
+Nanggroe Aceh Darussalam,2037,0.99,696,4040,Sumatera
+Nanggroe Aceh Darussalam,2038,0.99,705,4040,Sumatera
+Nanggroe Aceh Darussalam,2039,0.99,714,4040,Sumatera
+Nanggroe Aceh Darussalam,2040,0.99,723,4040,Sumatera
+Nanggroe Aceh Darussalam,2041,0.99,732,4040,Sumatera
+Nanggroe Aceh Darussalam,2042,0.99,740,4040,Sumatera
+Nanggroe Aceh Darussalam,2043,0.99,749,4040,Sumatera
+Nanggroe Aceh Darussalam,2044,0.99,758,4040,Sumatera
+Nanggroe Aceh Darussalam,2045,0.99,767,4040,Sumatera
+Nusa Tenggara Barat,2010,0.81,452,32,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2011,0.83,458,36,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2012,0.84,465,37,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2013,0.85,471,43,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2014,0.87,477,60,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2015,0.87,484,38,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2016,0.87,490,31,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2017,0.87,496,1841,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2018,0.87,501,1828,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2019,0.88,507,1934,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2020,0.89,513,2017,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2021,0.88,518,1926,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2022,0.88,524,1959,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2023,0.88,529,1967,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2024,0.88,535,1951,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2025,0.88,540,1959,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2026,0.88,546,1959,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2027,0.88,551,1956,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2028,0.88,557,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2029,0.88,562,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2030,0.88,568,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2031,0.88,573,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2032,0.88,579,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2033,0.88,584,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2034,0.88,590,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2035,0.88,595,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2036,0.88,601,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2037,0.88,606,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2038,0.88,612,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2039,0.88,618,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2040,0.88,623,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2041,0.88,629,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2042,0.88,634,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2043,0.88,640,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2044,0.88,645,1958,Bali & Nusa Tenggara
+Nusa Tenggara Barat,2045,0.88,651,1958,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2010,0.89,471,56,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2011,0.88,479,83,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2012,0.89,487,92,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2013,0.90,495,77,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2014,0.91,504,84,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2015,0.91,512,50,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2016,0.92,520,54,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2017,0.92,529,2181,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2018,0.92,537,2271,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2019,0.93,546,2721,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2020,0.95,554,3005,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2021,0.93,563,2665,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2022,0.94,571,2797,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2023,0.94,580,2822,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2024,0.94,588,2761,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2025,0.94,597,2794,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2026,0.94,605,2792,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2027,0.94,614,2782,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2028,0.94,622,2789,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2029,0.94,631,2788,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2030,0.94,639,2787,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2031,0.94,648,2788,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2032,0.94,656,2788,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2033,0.94,665,2787,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2034,0.94,673,2788,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2035,0.94,682,2788,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2036,0.94,690,2788,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2037,0.94,699,2788,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2038,0.94,707,2788,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2039,0.94,716,2788,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2040,0.94,725,2788,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2041,0.94,733,2788,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2042,0.94,742,2788,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2043,0.94,750,2788,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2044,0.94,759,2788,Bali & Nusa Tenggara
+Nusa Tenggara Timur,2045,0.94,767,2788,Bali & Nusa Tenggara
+Papua,2010,0.68,286,248,Papua
+Papua,2011,0.64,292,271,Papua
+Papua,2012,0.66,297,292,Papua
+Papua,2013,0.68,303,270,Papua
+Papua,2014,0.71,309,278,Papua
+Papua,2015,0.71,315,81,Papua
+Papua,2016,0.71,321,210,Papua
+Papua,2017,0.74,327,2477,Papua
+Papua,2018,0.77,332,2620,Papua
+Papua,2019,0.78,338,3362,Papua
+Papua,2020,0.79,344,3203,Papua
+Papua,2021,0.78,349,3062,Papua
+Papua,2022,0.78,355,3209,Papua
+Papua,2023,0.78,360,3158,Papua
+Papua,2024,0.78,366,3143,Papua
+Papua,2025,0.78,372,3170,Papua
+Papua,2026,0.78,377,3157,Papua
+Papua,2027,0.78,383,3157,Papua
+Papua,2028,0.78,388,3161,Papua
+Papua,2029,0.78,394,3158,Papua
+Papua,2030,0.78,400,3159,Papua
+Papua,2031,0.78,405,3159,Papua
+Papua,2032,0.78,411,3159,Papua
+Papua,2033,0.78,417,3159,Papua
+Papua,2034,0.78,422,3159,Papua
+Papua,2035,0.78,428,3159,Papua
+Papua,2036,0.78,433,3159,Papua
+Papua,2037,0.78,439,3159,Papua
+Papua,2038,0.78,445,3159,Papua
+Papua,2039,0.78,450,3159,Papua
+Papua,2040,0.78,456,3159,Papua
+Papua,2041,0.78,461,3159,Papua
+Papua,2042,0.78,467,3159,Papua
+Papua,2043,0.78,473,3159,Papua
+Papua,2044,0.78,478,3159,Papua
+Papua,2045,0.78,484,3159,Papua
+Papua Barat,2010,0.95,77,114,Papua
+Papua Barat,2011,0.92,79,127,Papua
+Papua Barat,2012,0.95,81,133,Papua
+Papua Barat,2013,0.96,83,126,Papua
+Papua Barat,2014,0.97,85,1281,Papua
+Papua Barat,2015,0.97,87,77,Papua
+Papua Barat,2016,0.97,89,48,Papua
+Papua Barat,2017,0.97,92,763,Papua
+Papua Barat,2018,0.97,94,930,Papua
+Papua Barat,2019,0.98,96,1006,Papua
+Papua Barat,2020,0.99,98,1018,Papua
+Papua Barat,2021,0.99,100,985,Papua
+Papua Barat,2022,0.99,103,1003,Papua
+Papua Barat,2023,0.99,105,1002,Papua
+Papua Barat,2024,0.99,107,996,Papua
+Papua Barat,2025,0.99,109,1000,Papua
+Papua Barat,2026,0.99,112,999,Papua
+Papua Barat,2027,0.99,114,999,Papua
+Papua Barat,2028,0.99,116,999,Papua
+Papua Barat,2029,0.99,118,999,Papua
+Papua Barat,2030,0.99,120,999,Papua
+Papua Barat,2031,0.99,123,999,Papua
+Papua Barat,2032,0.99,125,999,Papua
+Papua Barat,2033,0.99,127,999,Papua
+Papua Barat,2034,0.99,129,999,Papua
+Papua Barat,2035,0.99,131,999,Papua
+Papua Barat,2036,0.99,134,999,Papua
+Papua Barat,2037,0.99,136,999,Papua
+Papua Barat,2038,0.99,138,999,Papua
+Papua Barat,2039,0.99,140,999,Papua
+Papua Barat,2040,0.99,143,999,Papua
+Papua Barat,2041,0.99,145,999,Papua
+Papua Barat,2042,0.99,147,999,Papua
+Papua Barat,2043,0.99,149,999,Papua
+Papua Barat,2044,0.99,151,999,Papua
+Papua Barat,2045,0.99,154,999,Papua
+Riau,2010,0.98,557,744,Sumatera
+Riau,2011,0.98,573,983,Sumatera
+Riau,2012,0.98,588,733,Sumatera
+Riau,2013,0.98,603,820,Sumatera
+Riau,2014,0.99,619,376,Sumatera
+Riau,2015,0.99,634,335,Sumatera
+Riau,2016,0.99,650,629,Sumatera
+Riau,2017,0.99,666,3158,Sumatera
+Riau,2018,0.99,681,2920,Sumatera
+Riau,2019,0.99,697,3071,Sumatera
+Riau,2020,0.99,713,3346,Sumatera
+Riau,2021,0.99,728,3112,Sumatera
+Riau,2022,0.99,744,3176,Sumatera
+Riau,2023,0.99,760,3211,Sumatera
+Riau,2024,0.99,775,3167,Sumatera
+Riau,2025,0.99,791,3185,Sumatera
+Riau,2026,0.99,807,3188,Sumatera
+Riau,2027,0.99,822,3180,Sumatera
+Riau,2028,0.99,838,3184,Sumatera
+Riau,2029,0.99,854,3184,Sumatera
+Riau,2030,0.99,869,3183,Sumatera
+Riau,2031,0.99,885,3184,Sumatera
+Riau,2032,0.99,901,3183,Sumatera
+Riau,2033,0.99,916,3183,Sumatera
+Riau,2034,0.99,932,3183,Sumatera
+Riau,2035,0.99,948,3183,Sumatera
+Riau,2036,0.99,963,3183,Sumatera
+Riau,2037,0.99,979,3183,Sumatera
+Riau,2038,0.99,995,3183,Sumatera
+Riau,2039,0.99,1010,3183,Sumatera
+Riau,2040,0.99,1026,3183,Sumatera
+Riau,2041,0.99,1042,3183,Sumatera
+Riau,2042,0.99,1057,3183,Sumatera
+Riau,2043,0.99,1073,3183,Sumatera
+Riau,2044,0.99,1089,3183,Sumatera
+Riau,2045,0.99,1104,3183,Sumatera
+Sulawesi Barat,2010,0.88,116,36,Sulawesi
+Sulawesi Barat,2011,0.88,119,41,Sulawesi
+Sulawesi Barat,2012,0.89,121,46,Sulawesi
+Sulawesi Barat,2013,0.91,123,41,Sulawesi
+Sulawesi Barat,2014,0.92,126,43,Sulawesi
+Sulawesi Barat,2015,0.93,128,59,Sulawesi
+Sulawesi Barat,2016,0.93,131,135,Sulawesi
+Sulawesi Barat,2017,0.93,133,401,Sulawesi
+Sulawesi Barat,2018,0.93,136,346,Sulawesi
+Sulawesi Barat,2019,0.94,138,441,Sulawesi
+Sulawesi Barat,2020,0.96,141,783,Sulawesi
+Sulawesi Barat,2021,0.94,143,523,Sulawesi
+Sulawesi Barat,2022,0.94,145,583,Sulawesi
+Sulawesi Barat,2023,0.95,148,630,Sulawesi
+Sulawesi Barat,2024,0.94,150,579,Sulawesi
+Sulawesi Barat,2025,0.95,153,597,Sulawesi
+Sulawesi Barat,2026,0.95,155,602,Sulawesi
+Sulawesi Barat,2027,0.95,158,592,Sulawesi
+Sulawesi Barat,2028,0.95,160,597,Sulawesi
+Sulawesi Barat,2029,0.95,163,597,Sulawesi
+Sulawesi Barat,2030,0.95,165,595,Sulawesi
+Sulawesi Barat,2031,0.95,168,597,Sulawesi
+Sulawesi Barat,2032,0.95,170,596,Sulawesi
+Sulawesi Barat,2033,0.95,173,596,Sulawesi
+Sulawesi Barat,2034,0.95,175,596,Sulawesi
+Sulawesi Barat,2035,0.95,178,596,Sulawesi
+Sulawesi Barat,2036,0.95,180,596,Sulawesi
+Sulawesi Barat,2037,0.95,183,596,Sulawesi
+Sulawesi Barat,2038,0.95,185,596,Sulawesi
+Sulawesi Barat,2039,0.95,188,596,Sulawesi
+Sulawesi Barat,2040,0.95,190,596,Sulawesi
+Sulawesi Barat,2041,0.95,192,596,Sulawesi
+Sulawesi Barat,2042,0.95,195,596,Sulawesi
+Sulawesi Barat,2043,0.95,197,596,Sulawesi
+Sulawesi Barat,2044,0.95,200,596,Sulawesi
+Sulawesi Barat,2045,0.95,202,596,Sulawesi
+Sulawesi Selatan,2010,0.88,806,91,Sulawesi
+Sulawesi Selatan,2011,0.88,816,108,Sulawesi
+Sulawesi Selatan,2012,0.89,825,125,Sulawesi
+Sulawesi Selatan,2013,0.90,834,117,Sulawesi
+Sulawesi Selatan,2014,0.91,843,87,Sulawesi
+Sulawesi Selatan,2015,0.91,852,56,Sulawesi
+Sulawesi Selatan,2016,0.92,861,108,Sulawesi
+Sulawesi Selatan,2017,0.92,869,3868,Sulawesi
+Sulawesi Selatan,2018,0.92,877,3897,Sulawesi
+Sulawesi Selatan,2019,0.92,885,3969,Sulawesi
+Sulawesi Selatan,2020,0.94,893,4113,Sulawesi
+Sulawesi Selatan,2021,0.93,900,3993,Sulawesi
+Sulawesi Selatan,2022,0.93,908,4025,Sulawesi
+Sulawesi Selatan,2023,0.93,916,4043,Sulawesi
+Sulawesi Selatan,2024,0.93,924,4020,Sulawesi
+Sulawesi Selatan,2025,0.93,931,4029,Sulawesi
+Sulawesi Selatan,2026,0.93,939,4031,Sulawesi
+Sulawesi Selatan,2027,0.93,947,4027,Sulawesi
+Sulawesi Selatan,2028,0.93,954,4029,Sulawesi
+Sulawesi Selatan,2029,0.93,962,4029,Sulawesi
+Sulawesi Selatan,2030,0.93,970,4028,Sulawesi
+Sulawesi Selatan,2031,0.93,977,4029,Sulawesi
+Sulawesi Selatan,2032,0.93,985,4029,Sulawesi
+Sulawesi Selatan,2033,0.93,993,4029,Sulawesi
+Sulawesi Selatan,2034,0.93,1000,4029,Sulawesi
+Sulawesi Selatan,2035,0.93,1008,4029,Sulawesi
+Sulawesi Selatan,2036,0.93,1016,4029,Sulawesi
+Sulawesi Selatan,2037,0.93,1023,4029,Sulawesi
+Sulawesi Selatan,2038,0.93,1031,4029,Sulawesi
+Sulawesi Selatan,2039,0.93,1039,4029,Sulawesi
+Sulawesi Selatan,2040,0.93,1046,4029,Sulawesi
+Sulawesi Selatan,2041,0.93,1054,4029,Sulawesi
+Sulawesi Selatan,2042,0.93,1062,4029,Sulawesi
+Sulawesi Selatan,2043,0.93,1069,4029,Sulawesi
+Sulawesi Selatan,2044,0.93,1077,4029,Sulawesi
+Sulawesi Selatan,2045,0.93,1085,4029,Sulawesi
+Sulawesi Tengah,2010,0.96,265,108,Sulawesi
+Sulawesi Tengah,2011,0.95,269,92,Sulawesi
+Sulawesi Tengah,2012,0.95,274,109,Sulawesi
+Sulawesi Tengah,2013,0.96,279,124,Sulawesi
+Sulawesi Tengah,2014,0.97,283,108,Sulawesi
+Sulawesi Tengah,2015,0.97,288,101,Sulawesi
+Sulawesi Tengah,2016,0.98,292,190,Sulawesi
+Sulawesi Tengah,2017,0.98,297,1287,Sulawesi
+Sulawesi Tengah,2018,0.98,301,1244,Sulawesi
+Sulawesi Tengah,2019,0.98,305,1393,Sulawesi
+Sulawesi Tengah,2020,0.99,310,1677,Sulawesi
+Sulawesi Tengah,2021,0.99,314,1438,Sulawesi
+Sulawesi Tengah,2022,0.99,318,1503,Sulawesi
+Sulawesi Tengah,2023,0.99,323,1539,Sulawesi
+Sulawesi Tengah,2024,0.99,327,1493,Sulawesi
+Sulawesi Tengah,2025,0.99,331,1512,Sulawesi
+Sulawesi Tengah,2026,0.99,335,1515,Sulawesi
+Sulawesi Tengah,2027,0.99,340,1507,Sulawesi
+Sulawesi Tengah,2028,0.99,344,1511,Sulawesi
+Sulawesi Tengah,2029,0.99,348,1511,Sulawesi
+Sulawesi Tengah,2030,0.99,353,1509,Sulawesi
+Sulawesi Tengah,2031,0.99,357,1510,Sulawesi
+Sulawesi Tengah,2032,0.99,361,1510,Sulawesi
+Sulawesi Tengah,2033,0.99,366,1510,Sulawesi
+Sulawesi Tengah,2034,0.99,370,1510,Sulawesi
+Sulawesi Tengah,2035,0.99,374,1510,Sulawesi
+Sulawesi Tengah,2036,0.99,378,1510,Sulawesi
+Sulawesi Tengah,2037,0.99,383,1510,Sulawesi
+Sulawesi Tengah,2038,0.99,387,1510,Sulawesi
+Sulawesi Tengah,2039,0.99,391,1510,Sulawesi
+Sulawesi Tengah,2040,0.99,396,1510,Sulawesi
+Sulawesi Tengah,2041,0.99,400,1510,Sulawesi
+Sulawesi Tengah,2042,0.99,404,1510,Sulawesi
+Sulawesi Tengah,2043,0.99,408,1510,Sulawesi
+Sulawesi Tengah,2044,0.99,413,1510,Sulawesi
+Sulawesi Tengah,2045,0.99,417,1510,Sulawesi
+Sulawesi Tenggara,2010,0.92,224,56,Sulawesi
+Sulawesi Tenggara,2011,0.91,229,73,Sulawesi
+Sulawesi Tenggara,2012,0.91,235,90,Sulawesi
+Sulawesi Tenggara,2013,0.93,240,77,Sulawesi
+Sulawesi Tenggara,2014,0.94,245,63,Sulawesi
+Sulawesi Tenggara,2015,0.94,250,49,Sulawesi
+Sulawesi Tenggara,2016,0.94,255,101,Sulawesi
+Sulawesi Tenggara,2017,0.94,260,1360,Sulawesi
+Sulawesi Tenggara,2018,0.94,265,1468,Sulawesi
+Sulawesi Tenggara,2019,0.95,270,1599,Sulawesi
+Sulawesi Tenggara,2020,0.98,276,1698,Sulawesi
+Sulawesi Tenggara,2021,0.96,281,1589,Sulawesi
+Sulawesi Tenggara,2022,0.96,286,1629,Sulawesi
+Sulawesi Tenggara,2023,0.97,291,1639,Sulawesi
+Sulawesi Tenggara,2024,0.96,296,1619,Sulawesi
+Sulawesi Tenggara,2025,0.96,301,1629,Sulawesi
+Sulawesi Tenggara,2026,0.96,306,1629,Sulawesi
+Sulawesi Tenggara,2027,0.96,311,1625,Sulawesi
+Sulawesi Tenggara,2028,0.96,316,1628,Sulawesi
+Sulawesi Tenggara,2029,0.96,321,1627,Sulawesi
+Sulawesi Tenggara,2030,0.96,326,1627,Sulawesi
+Sulawesi Tenggara,2031,0.96,331,1627,Sulawesi
+Sulawesi Tenggara,2032,0.96,337,1627,Sulawesi
+Sulawesi Tenggara,2033,0.96,342,1627,Sulawesi
+Sulawesi Tenggara,2034,0.96,347,1627,Sulawesi
+Sulawesi Tenggara,2035,0.96,352,1627,Sulawesi
+Sulawesi Tenggara,2036,0.96,357,1627,Sulawesi
+Sulawesi Tenggara,2037,0.96,362,1627,Sulawesi
+Sulawesi Tenggara,2038,0.96,367,1627,Sulawesi
+Sulawesi Tenggara,2039,0.96,372,1627,Sulawesi
+Sulawesi Tenggara,2040,0.96,377,1627,Sulawesi
+Sulawesi Tenggara,2041,0.96,382,1627,Sulawesi
+Sulawesi Tenggara,2042,0.96,387,1627,Sulawesi
+Sulawesi Tenggara,2043,0.96,393,1627,Sulawesi
+Sulawesi Tenggara,2044,0.96,398,1627,Sulawesi
+Sulawesi Tenggara,2045,0.96,403,1627,Sulawesi
+Sulawesi Utara,2010,0.99,228,184,Sulawesi
+Sulawesi Utara,2011,0.99,231,116,Sulawesi
+Sulawesi Utara,2012,0.99,233,385,Sulawesi
+Sulawesi Utara,2013,0.99,236,184,Sulawesi
+Sulawesi Utara,2014,0.99,239,109,Sulawesi
+Sulawesi Utara,2015,0.99,241,56,Sulawesi
+Sulawesi Utara,2016,0.99,244,33,Sulawesi
+Sulawesi Utara,2017,0.99,246,1318,Sulawesi
+Sulawesi Utara,2018,0.99,248,1299,Sulawesi
+Sulawesi Utara,2019,0.99,251,1430,Sulawesi
+Sulawesi Utara,2020,0.99,253,1491,Sulawesi
+Sulawesi Utara,2021,0.99,255,1407,Sulawesi
+Sulawesi Utara,2022,0.99,257,1443,Sulawesi
+Sulawesi Utara,2023,0.99,259,1447,Sulawesi
+Sulawesi Utara,2024,0.99,262,1432,Sulawesi
+Sulawesi Utara,2025,0.99,264,1440,Sulawesi
+Sulawesi Utara,2026,0.99,266,1440,Sulawesi
+Sulawesi Utara,2027,0.99,268,1437,Sulawesi
+Sulawesi Utara,2028,0.99,270,1439,Sulawesi
+Sulawesi Utara,2029,0.99,273,1439,Sulawesi
+Sulawesi Utara,2030,0.99,275,1438,Sulawesi
+Sulawesi Utara,2031,0.99,277,1439,Sulawesi
+Sulawesi Utara,2032,0.99,279,1439,Sulawesi
+Sulawesi Utara,2033,0.99,281,1439,Sulawesi
+Sulawesi Utara,2034,0.99,283,1439,Sulawesi
+Sulawesi Utara,2035,0.99,286,1439,Sulawesi
+Sulawesi Utara,2036,0.99,288,1439,Sulawesi
+Sulawesi Utara,2037,0.99,290,1439,Sulawesi
+Sulawesi Utara,2038,0.99,292,1439,Sulawesi
+Sulawesi Utara,2039,0.99,294,1439,Sulawesi
+Sulawesi Utara,2040,0.99,297,1439,Sulawesi
+Sulawesi Utara,2041,0.99,299,1439,Sulawesi
+Sulawesi Utara,2042,0.99,301,1439,Sulawesi
+Sulawesi Utara,2043,0.99,303,1439,Sulawesi
+Sulawesi Utara,2044,0.99,305,1439,Sulawesi
+Sulawesi Utara,2045,0.99,307,1439,Sulawesi
+Sumatera Barat,2010,0.97,487,192,Sumatera
+Sumatera Barat,2011,0.96,493,116,Sumatera
+Sumatera Barat,2012,0.97,500,126,Sumatera
+Sumatera Barat,2013,0.97,507,111,Sumatera
+Sumatera Barat,2014,0.98,513,122,Sumatera
+Sumatera Barat,2015,0.99,520,89,Sumatera
+Sumatera Barat,2016,0.99,526,147,Sumatera
+Sumatera Barat,2017,0.99,532,1922,Sumatera
+Sumatera Barat,2018,0.99,538,2967,Sumatera
+Sumatera Barat,2019,0.99,544,3185,Sumatera
+Sumatera Barat,2020,0.99,550,3029,Sumatera
+Sumatera Barat,2021,0.99,556,3061,Sumatera
+Sumatera Barat,2022,0.99,561,3092,Sumatera
+Sumatera Barat,2023,0.99,567,3061,Sumatera
+Sumatera Barat,2024,0.99,573,3071,Sumatera
+Sumatera Barat,2025,0.99,579,3074,Sumatera
+Sumatera Barat,2026,0.99,584,3069,Sumatera
+Sumatera Barat,2027,0.99,590,3071,Sumatera
+Sumatera Barat,2028,0.99,596,3072,Sumatera
+Sumatera Barat,2029,0.99,602,3071,Sumatera
+Sumatera Barat,2030,0.99,607,3071,Sumatera
+Sumatera Barat,2031,0.99,613,3071,Sumatera
+Sumatera Barat,2032,0.99,619,3071,Sumatera
+Sumatera Barat,2033,0.99,625,3071,Sumatera
+Sumatera Barat,2034,0.99,630,3071,Sumatera
+Sumatera Barat,2035,0.99,636,3071,Sumatera
+Sumatera Barat,2036,0.99,642,3071,Sumatera
+Sumatera Barat,2037,0.99,648,3071,Sumatera
+Sumatera Barat,2038,0.99,653,3071,Sumatera
+Sumatera Barat,2039,0.99,659,3071,Sumatera
+Sumatera Barat,2040,0.99,665,3071,Sumatera
+Sumatera Barat,2041,0.99,671,3071,Sumatera
+Sumatera Barat,2042,0.99,676,3071,Sumatera
+Sumatera Barat,2043,0.99,682,3071,Sumatera
+Sumatera Barat,2044,0.99,688,3071,Sumatera
+Sumatera Barat,2045,0.99,694,3071,Sumatera
+Sumatera Selatan,2010,0.97,748,552,Sumatera
+Sumatera Selatan,2011,0.97,760,256,Sumatera
+Sumatera Selatan,2012,0.97,771,249,Sumatera
+Sumatera Selatan,2013,0.97,783,297,Sumatera
+Sumatera Selatan,2014,0.98,794,251,Sumatera
+Sumatera Selatan,2015,0.98,805,115,Sumatera
+Sumatera Selatan,2016,0.98,816,130,Sumatera
+Sumatera Selatan,2017,0.99,827,1597,Sumatera
+Sumatera Selatan,2018,0.99,837,2958,Sumatera
+Sumatera Selatan,2019,0.99,847,3024,Sumatera
+Sumatera Selatan,2020,0.99,857,3294,Sumatera
+Sumatera Selatan,2021,0.99,867,3092,Sumatera
+Sumatera Selatan,2022,0.99,876,3137,Sumatera
+Sumatera Selatan,2023,0.99,886,3174,Sumatera
+Sumatera Selatan,2024,0.99,896,3134,Sumatera
+Sumatera Selatan,2025,0.99,905,3148,Sumatera
+Sumatera Selatan,2026,0.99,915,3152,Sumatera
+Sumatera Selatan,2027,0.99,925,3145,Sumatera
+Sumatera Selatan,2028,0.99,935,3148,Sumatera
+Sumatera Selatan,2029,0.99,944,3149,Sumatera
+Sumatera Selatan,2030,0.99,954,3147,Sumatera
+Sumatera Selatan,2031,0.99,964,3148,Sumatera
+Sumatera Selatan,2032,0.99,973,3148,Sumatera
+Sumatera Selatan,2033,0.99,983,3148,Sumatera
+Sumatera Selatan,2034,0.99,993,3148,Sumatera
+Sumatera Selatan,2035,0.99,1003,3148,Sumatera
+Sumatera Selatan,2036,0.99,1012,3148,Sumatera
+Sumatera Selatan,2037,0.99,1022,3148,Sumatera
+Sumatera Selatan,2038,0.99,1032,3148,Sumatera
+Sumatera Selatan,2039,0.99,1042,3148,Sumatera
+Sumatera Selatan,2040,0.99,1051,3148,Sumatera
+Sumatera Selatan,2041,0.99,1061,3148,Sumatera
+Sumatera Selatan,2042,0.99,1071,3148,Sumatera
+Sumatera Selatan,2043,0.99,1080,3148,Sumatera
+Sumatera Selatan,2044,0.99,1090,3148,Sumatera
+Sumatera Selatan,2045,0.99,1100,3148,Sumatera
+Sumatera Utara,2010,0.97,1303,97,Sumatera
+Sumatera Utara,2011,0.97,1322,108,Sumatera
+Sumatera Utara,2012,0.97,1341,124,Sumatera
+Sumatera Utara,2013,0.98,1359,110,Sumatera
+Sumatera Utara,2014,0.99,1377,114,Sumatera
+Sumatera Utara,2015,0.99,1394,197,Sumatera
+Sumatera Utara,2016,0.99,1410,69,Sumatera
+Sumatera Utara,2017,0.99,1426,5354,Sumatera
+Sumatera Utara,2018,0.99,1442,5277,Sumatera
+Sumatera Utara,2019,0.99,1456,5785,Sumatera
+Sumatera Utara,2020,0.99,1470,6253,Sumatera
+Sumatera Utara,2021,0.99,1484,5772,Sumatera
+Sumatera Utara,2022,0.99,1499,5937,Sumatera
+Sumatera Utara,2023,0.99,1513,5987,Sumatera
+Sumatera Utara,2024,0.99,1527,5899,Sumatera
+Sumatera Utara,2025,0.99,1541,5941,Sumatera
+Sumatera Utara,2026,0.99,1555,5942,Sumatera
+Sumatera Utara,2027,0.99,1569,5927,Sumatera
+Sumatera Utara,2028,0.99,1583,5937,Sumatera
+Sumatera Utara,2029,0.99,1597,5936,Sumatera
+Sumatera Utara,2030,0.99,1611,5933,Sumatera
+Sumatera Utara,2031,0.99,1625,5935,Sumatera
+Sumatera Utara,2032,0.99,1640,5935,Sumatera
+Sumatera Utara,2033,0.99,1654,5934,Sumatera
+Sumatera Utara,2034,0.99,1668,5935,Sumatera
+Sumatera Utara,2035,0.99,1682,5935,Sumatera
+Sumatera Utara,2036,0.99,1696,5935,Sumatera
+Sumatera Utara,2037,0.99,1710,5935,Sumatera
+Sumatera Utara,2038,0.99,1724,5935,Sumatera
+Sumatera Utara,2039,0.99,1738,5935,Sumatera
+Sumatera Utara,2040,0.99,1752,5935,Sumatera
+Sumatera Utara,2041,0.99,1766,5935,Sumatera
+Sumatera Utara,2042,0.99,1781,5935,Sumatera
+Sumatera Utara,2043,0.99,1795,5935,Sumatera
+Sumatera Utara,2044,0.99,1809,5935,Sumatera
+Sumatera Utara,2045,0.99,1823,5935,Sumatera

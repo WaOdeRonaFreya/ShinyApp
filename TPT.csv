@@ -1,0 +1,456 @@
+Tahun,Wilayah,TPT
+2010,Aceh,8.37
+2010,Sumatera Utara,7.43
+2010,Sumatera Barat,6.95
+2010,Riau,8.72
+2010,Jambi,5.39
+2010,Sumatera Selatan,6.65
+2010,Bengkulu,4.59
+2010,Lampung,5.57
+2010,Kep. Bangka Belitung,5.63
+2010,Kep. Riau,6.9
+2010,Dki Jakarta,11.05
+2010,Jawa Barat,10.33
+2010,Jawa Tengah,6.21
+2010,Di Yogyakarta,5.69
+2010,Jawa Timur,4.25
+2010,Banten,13.68
+2010,Bali,3.06
+2010,Nusa Tenggara Barat,5.29
+2010,Nusa Tenggara Timur,3.34
+2010,Kalimantan Barat,4.62
+2010,Kalimantan Tengah,4.14
+2010,Kalimantan Selatan,5.25
+2010,Kalimantan Timur,10.1
+2010,Kalimantan Utara,6.64
+2010,Sulawesi Utara,9.61
+2010,Sulawesi Tengah,4.61
+2010,Sulawesi Selatan,8.37
+2010,Sulawesi Tenggara,4.61
+2010,Gorontalo,5.16
+2010,Sulawesi Barat,3.25
+2010,Maluku,9.97
+2010,Maluku Utara,6.03
+2010,Papua Barat,7.68
+2010,Papua,3.55
+2010,Indonesia,7.14
+2011,Aceh,9
+2011,Sumatera Utara,8.18
+2011,Sumatera Barat,8.02
+2011,Riau,6.09
+2011,Jambi,4.63
+2011,Sumatera Selatan,6.6
+2011,Bengkulu,3.46
+2011,Lampung,6.38
+2011,Kep. Bangka Belitung,3.86
+2011,Kep. Riau,5.38
+2011,Dki Jakarta,11.69
+2011,Jawa Barat,9.96
+2011,Jawa Tengah,7.07
+2011,Di Yogyakarta,4.39
+2011,Jawa Timur,5.38
+2011,Banten,13.74
+2011,Bali,2.95
+2011,Nusa Tenggara Barat,5.25
+2011,Nusa Tenggara Timur,3.11
+2011,Kalimantan Barat,4.6
+2011,Kalimantan Tengah,3.54
+2011,Kalimantan Selatan,6.29
+2011,Kalimantan Timur,11.43
+2011,Kalimantan Utara,6.45
+2011,Sulawesi Utara,10.1
+2011,Sulawesi Tengah,6.78
+2011,Sulawesi Selatan,8.13
+2011,Sulawesi Tenggara,4.69
+2011,Gorontalo,6.74
+2011,Sulawesi Barat,3.35
+2011,Maluku,10.81
+2011,Maluku Utara,5.34
+2011,Papua Barat,6.73
+2011,Papua,5.02
+2011,Indonesia,7.48
+2012,Aceh,9.06
+2012,Sumatera Utara,6.28
+2012,Sumatera Barat,6.65
+2012,Riau,4.37
+2012,Jambi,3.2
+2012,Sumatera Selatan,5.66
+2012,Bengkulu,3.62
+2012,Lampung,5.2
+2012,Kep. Bangka Belitung,3.43
+2012,Kep. Riau,5.08
+2012,Dki Jakarta,9.67
+2012,Jawa Barat,9.08
+2012,Jawa Tengah,5.61
+2012,Di Yogyakarta,3.9
+2012,Jawa Timur,4.11
+2012,Banten,9.94
+2012,Bali,2.1
+2012,Nusa Tenggara Barat,5.23
+2012,Nusa Tenggara Timur,3.04
+2012,Kalimantan Barat,3.54
+2012,Kalimantan Tengah,3.14
+2012,Kalimantan Selatan,5.19
+2012,Kalimantan Timur,9.02
+2012,Kalimantan Utara,6.26
+2012,Sulawesi Utara,7.98
+2012,Sulawesi Tengah,3.95
+2012,Sulawesi Selatan,6.01
+2012,Sulawesi Tenggara,4.14
+2012,Gorontalo,4.47
+2012,Sulawesi Barat,2.16
+2012,Maluku,7.71
+2012,Maluku Utara,4.82
+2012,Papua Barat,5.42
+2012,Papua,3.71
+2012,Indonesia,6.13
+2013,Aceh,10.12
+2013,Sumatera Utara,6.45
+2013,Sumatera Barat,7.02
+2013,Riau,5.48
+2013,Jambi,4.76
+2013,Sumatera Selatan,4.84
+2013,Bengkulu,4.61
+2013,Lampung,5.69
+2013,Kep. Bangka Belitung,3.65
+2013,Kep. Riau,5.63
+2013,Dki Jakarta,8.63
+2013,Jawa Barat,9.16
+2013,Jawa Tengah,6.01
+2013,Di Yogyakarta,3.24
+2013,Jawa Timur,4.3
+2013,Banten,9.54
+2013,Bali,1.83
+2013,Nusa Tenggara Barat,5.3
+2013,Nusa Tenggara Timur,3.25
+2013,Kalimantan Barat,3.99
+2013,Kalimantan Tengah,3
+2013,Kalimantan Selatan,3.66
+2013,Kalimantan Timur,7.95
+2013,Kalimantan Utara,6.07
+2013,Sulawesi Utara,6.79
+2013,Sulawesi Tengah,4.19
+2013,Sulawesi Selatan,5.1
+2013,Sulawesi Tenggara,4.38
+2013,Gorontalo,4.15
+2013,Sulawesi Barat,2.35
+2013,Maluku,9.91
+2013,Maluku Utara,3.8
+2013,Papua Barat,4.4
+2013,Papua,3.15
+2013,Indonesia,6.17
+2014,Aceh,9.02
+2014,Sumatera Utara,6.23
+2014,Sumatera Barat,6.5
+2014,Riau,6.56
+2014,Jambi,5.08
+2014,Sumatera Selatan,4.96
+2014,Bengkulu,3.47
+2014,Lampung,4.79
+2014,Kep. Bangka Belitung,5.14
+2014,Kep. Riau,6.69
+2014,Dki Jakarta,8.47
+2014,Jawa Barat,8.45
+2014,Jawa Tengah,5.68
+2014,Di Yogyakarta,3.33
+2014,Jawa Timur,4.19
+2014,Banten,9.07
+2014,Bali,1.9
+2014,Nusa Tenggara Barat,5.75
+2014,Nusa Tenggara Timur,3.26
+2014,Kalimantan Barat,4.04
+2014,Kalimantan Tengah,3.24
+2014,Kalimantan Selatan,3.8
+2014,Kalimantan Timur,7.38
+2014,Kalimantan Utara,5.87
+2014,Sulawesi Utara,7.54
+2014,Sulawesi Tengah,3.68
+2014,Sulawesi Selatan,5.08
+2014,Sulawesi Tenggara,4.43
+2014,Gorontalo,4.18
+2014,Sulawesi Barat,2.08
+2014,Maluku,10.51
+2014,Maluku Utara,5.29
+2014,Papua Barat,5.02
+2014,Papua,3.44
+2014,Indonesia,5.94
+2015,Aceh,9.93
+2015,Sumatera Utara,6.71
+2015,Sumatera Barat,6.89
+2015,Riau,7.83
+2015,Jambi,4.34
+2015,Sumatera Selatan,6.07
+2015,Bengkulu,4.91
+2015,Lampung,5.14
+2015,Kep. Bangka Belitung,6.29
+2015,Kep. Riau,6.2
+2015,Dki Jakarta,7.23
+2015,Jawa Barat,8.72
+2015,Jawa Tengah,4.99
+2015,Di Yogyakarta,4.07
+2015,Jawa Timur,4.47
+2015,Banten,9.55
+2015,Bali,1.99
+2015,Nusa Tenggara Barat,5.69
+2015,Nusa Tenggara Timur,3.83
+2015,Kalimantan Barat,5.15
+2015,Kalimantan Tengah,4.54
+2015,Kalimantan Selatan,4.92
+2015,Kalimantan Timur,7.5
+2015,Kalimantan Utara,5.68
+2015,Sulawesi Utara,9.03
+2015,Sulawesi Tengah,4.1
+2015,Sulawesi Selatan,5.95
+2015,Sulawesi Tenggara,5.55
+2015,Gorontalo,4.65
+2015,Sulawesi Barat,3.35
+2015,Maluku,9.93
+2015,Maluku Utara,6.05
+2015,Papua Barat,8.08
+2015,Papua,3.99
+2015,Indonesia,6.18
+2016,Aceh,7.57
+2016,Sumatera Utara,5.84
+2016,Sumatera Barat,5.09
+2016,Riau,7.43
+2016,Jambi,4
+2016,Sumatera Selatan,4.31
+2016,Bengkulu,3.3
+2016,Lampung,4.62
+2016,Kep. Bangka Belitung,2.6
+2016,Kep. Riau,7.69
+2016,Dki Jakarta,6.12
+2016,Jawa Barat,8.89
+2016,Jawa Tengah,4.63
+2016,Di Yogyakarta,2.72
+2016,Jawa Timur,4.21
+2016,Banten,8.92
+2016,Bali,1.89
+2016,Nusa Tenggara Barat,3.94
+2016,Nusa Tenggara Timur,3.25
+2016,Kalimantan Barat,4.23
+2016,Kalimantan Tengah,4.82
+2016,Kalimantan Selatan,5.45
+2016,Kalimantan Timur,7.95
+2016,Kalimantan Utara,5.23
+2016,Sulawesi Utara,6.18
+2016,Sulawesi Tengah,3.29
+2016,Sulawesi Selatan,4.8
+2016,Sulawesi Tenggara,2.72
+2016,Gorontalo,2.76
+2016,Sulawesi Barat,3.33
+2016,Maluku,7.05
+2016,Maluku Utara,4.01
+2016,Papua Barat,7.46
+2016,Papua,3.35
+2016,Indonesia,5.61
+2017,Aceh,6.57
+2017,Sumatera Utara,5.6
+2017,Sumatera Barat,5.58
+2017,Riau,6.22
+2017,Jambi,3.87
+2017,Sumatera Selatan,4.39
+2017,Bengkulu,3.74
+2017,Lampung,4.33
+2017,Kep. Bangka Belitung,3.78
+2017,Kep. Riau,7.16
+2017,Dki Jakarta,7.14
+2017,Jawa Barat,8.22
+2017,Jawa Tengah,4.57
+2017,Di Yogyakarta,3.02
+2017,Jawa Timur,4
+2017,Banten,9.28
+2017,Bali,1.48
+2017,Nusa Tenggara Barat,3.32
+2017,Nusa Tenggara Timur,3.27
+2017,Kalimantan Barat,4.36
+2017,Kalimantan Tengah,4.23
+2017,Kalimantan Selatan,4.77
+2017,Kalimantan Timur,6.91
+2017,Kalimantan Utara,5.54
+2017,Sulawesi Utara,7.18
+2017,Sulawesi Tengah,3.81
+2017,Sulawesi Selatan,5.61
+2017,Sulawesi Tenggara,3.3
+2017,Gorontalo,4.28
+2017,Sulawesi Barat,3.21
+2017,Maluku,9.29
+2017,Maluku Utara,5.33
+2017,Papua Barat,6.49
+2017,Papua,3.62
+2017,Indonesia,5.5
+2018,Aceh,6.34
+2018,Sumatera Utara,5.55
+2018,Sumatera Barat,5.66
+2018,Riau,5.98
+2018,Jambi,3.73
+2018,Sumatera Selatan,4.27
+2018,Bengkulu,3.35
+2018,Lampung,4.04
+2018,Kep. Bangka Belitung,3.61
+2018,Kep. Riau,8.04
+2018,Dki Jakarta,6.65
+2018,Jawa Barat,8.23
+2018,Jawa Tengah,4.47
+2018,Di Yogyakarta,3.37
+2018,Jawa Timur,3.91
+2018,Banten,8.47
+2018,Bali,1.4
+2018,Nusa Tenggara Barat,3.58
+2018,Nusa Tenggara Timur,2.85
+2018,Kalimantan Barat,4.18
+2018,Kalimantan Tengah,3.91
+2018,Kalimantan Selatan,4.35
+2018,Kalimantan Timur,6.41
+2018,Kalimantan Utara,5.11
+2018,Sulawesi Utara,6.61
+2018,Sulawesi Tengah,3.37
+2018,Sulawesi Selatan,4.94
+2018,Sulawesi Tenggara,3.19
+2018,Gorontalo,3.7
+2018,Sulawesi Barat,3.01
+2018,Maluku,6.95
+2018,Maluku Utara,4.63
+2018,Papua Barat,6.45
+2018,Papua,3
+2018,Indonesia,5.3
+2019,Aceh,6.17
+2019,Sumatera Utara,5.39
+2019,Sumatera Barat,5.38
+2019,Riau,5.76
+2019,Jambi,4.06
+2019,Sumatera Selatan,4.53
+2019,Bengkulu,3.26
+2019,Lampung,4.03
+2019,Kep. Bangka Belitung,3.58
+2019,Kep. Riau,7.5
+2019,Dki Jakarta,6.54
+2019,Jawa Barat,8.04
+2019,Jawa Tengah,4.44
+2019,Di Yogyakarta,3.18
+2019,Jawa Timur,3.82
+2019,Banten,8.11
+2019,Bali,1.57
+2019,Nusa Tenggara Barat,3.28
+2019,Nusa Tenggara Timur,3.14
+2019,Kalimantan Barat,4.35
+2019,Kalimantan Tengah,4.04
+2019,Kalimantan Selatan,4.18
+2019,Kalimantan Timur,5.94
+2019,Kalimantan Utara,4.49
+2019,Sulawesi Utara,6.01
+2019,Sulawesi Tengah,3.11
+2019,Sulawesi Selatan,4.62
+2019,Sulawesi Tenggara,3.52
+2019,Gorontalo,3.76
+2019,Sulawesi Barat,2.98
+2019,Maluku,6.69
+2019,Maluku Utara,4.81
+2019,Papua Barat,6.43
+2019,Papua,3.51
+2019,Indonesia,5.23
+2020,Aceh,6.59
+2020,Sumatera Utara,6.91
+2020,Sumatera Barat,6.88
+2020,Riau,6.32
+2020,Jambi,5.13
+2020,Sumatera Selatan,5.51
+2020,Bengkulu,4.07
+2020,Lampung,4.67
+2020,Kep. Bangka Belitung,5.25
+2020,Kep. Riau,10.34
+2020,Dki Jakarta,10.95
+2020,Jawa Barat,10.46
+2020,Jawa Tengah,6.48
+2020,Di Yogyakarta,4.57
+2020,Jawa Timur,5.84
+2020,Banten,10.64
+2020,Bali,5.63
+2020,Nusa Tenggara Barat,4.22
+2020,Nusa Tenggara Timur,4.28
+2020,Kalimantan Barat,5.81
+2020,Kalimantan Tengah,4.58
+2020,Kalimantan Selatan,4.74
+2020,Kalimantan Timur,6.87
+2020,Kalimantan Utara,4.97
+2020,Sulawesi Utara,7.37
+2020,Sulawesi Tengah,3.77
+2020,Sulawesi Selatan,6.31
+2020,Sulawesi Tenggara,4.58
+2020,Gorontalo,4.28
+2020,Sulawesi Barat,3.32
+2020,Maluku,7.57
+2020,Maluku Utara,5.15
+2020,Papua Barat,6.8
+2020,Papua,4.28
+2020,Indonesia,7.07
+2021,Aceh,6.3
+2021,Sumatera Utara,6.33
+2021,Sumatera Barat,6.52
+2021,Riau,4.42
+2021,Jambi,5.09
+2021,Sumatera Selatan,4.98
+2021,Bengkulu,3.65
+2021,Lampung,4.69
+2021,Kep. Bangka Belitung,5.03
+2021,Kep. Riau,9.91
+2021,Dki Jakarta,8.5
+2021,Jawa Barat,9.82
+2021,Jawa Tengah,5.95
+2021,Di Yogyakarta,4.56
+2021,Jawa Timur,5.74
+2021,Banten,8.98
+2021,Bali,5.37
+2021,Nusa Tenggara Barat,3.01
+2021,Nusa Tenggara Timur,3.77
+2021,Kalimantan Barat,5.82
+2021,Kalimantan Tengah,4.53
+2021,Kalimantan Selatan,4.95
+2021,Kalimantan Timur,6.83
+2021,Kalimantan Utara,4.58
+2021,Sulawesi Utara,7.06
+2021,Sulawesi Tengah,3.75
+2021,Sulawesi Selatan,5.72
+2021,Sulawesi Tenggara,3.92
+2021,Gorontalo,3.01
+2021,Sulawesi Barat,3.13
+2021,Maluku,6.93
+2021,Maluku Utara,4.71
+2021,Papua Barat,5.84
+2021,Papua,3.33
+2021,Indonesia,6.49
+2022,Aceh,6.17
+2022,Sumatera Utara,6.16
+2022,Sumatera Barat,6.28
+2022,Riau,4.37
+2022,Jambi,4.59
+2022,Sumatera Selatan,4.63
+2022,Bengkulu,3.59
+2022,Lampung,4.52
+2022,Kep. Bangka Belitung,4.77
+2022,Kep. Riau,8.23
+2022,Dki Jakarta,7.18
+2022,Jawa Barat,8.31
+2022,Jawa Tengah,5.57
+2022,Di Yogyakarta,4.06
+2022,Jawa Timur,5.49
+2022,Banten,8.09
+2022,Bali,4.8
+2022,Nusa Tenggara Barat,2.89
+2022,Nusa Tenggara Timur,3.54
+2022,Kalimantan Barat,5.11
+2022,Kalimantan Tengah,4.26
+2022,Kalimantan Selatan,4.74
+2022,Kalimantan Timur,5.71
+2022,Kalimantan Utara,4.33
+2022,Sulawesi Utara,6.61
+2022,Sulawesi Tengah,3
+2022,Sulawesi Selatan,4.51
+2022,Sulawesi Tenggara,3.36
+2022,Gorontalo,2.58
+2022,Sulawesi Barat,2.34
+2022,Maluku,6.88
+2022,Maluku Utara,3.98
+2022,Papua Barat,5.37
+2022,Papua,2.83
+2022,Indonesia,5.86
